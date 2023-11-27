@@ -1,5 +1,5 @@
-# 2da_Parte-d2-m3-Leonard
+# 1ra_Parte-d2-m3-Leonard
 
-3da Parte - Defasio 2, Modulo 3
+1ra Parte - Defasio 2, Modulo 3
 
-https://leonarddiego.github.io/2da_Parte-d2-m3-Leonard/
+https://leonarddiego.github.io/1ra_Parte-d2-m3-Leonard/
